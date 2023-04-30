@@ -1,0 +1,20 @@
+{
+    "name": "client-lib",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chromadb": "^1.4.1",
+        "dotenv": "^16.0.3",
+        "nanoid": "^4.0.2",
+        "nanoid-dictionary": "^4.3.0",
+        "openai": "^3.2.1"
+    },
+    "type": "module"
+}
